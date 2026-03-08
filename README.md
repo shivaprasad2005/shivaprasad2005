@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 * 🌱 Currently learning **Data Structures & Algorithms, Backend Development, Databases**
 * 💻 Practicing coding problems on **LeetCode**
@@ -18,59 +18,73 @@
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 <p align="center">
+
+<a href="https://github.com/shivaprasad2005">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</a>
+
+    
 
 <a href="https://www.linkedin.com/in/shiva-prasad-d">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 
-   
+    
 
 <a href="https://leetcode.com/u/ShivaPrasadD/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
 
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
+  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+
+  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+
+  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+
+  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+
+  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -92,7 +106,7 @@
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 * Master **Data Structures & Algorithms**
 * Build **Backend Projects**
@@ -101,12 +115,12 @@
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-* 🚀 SmartTicket – Ticket management system
-* 📚 DSA Practice – Data structures and algorithms solutions
-* ⚙ Backend API Projects
-* 🗄 Database Projects
+* 🚀 **SmartTicket** – Ticket management system
+* 📚 **DSA Practice** – Data structures and algorithm solutions
+* ⚙ **Backend API Projects**
+* 🗄 **Database Projects**
 
 ---
 
