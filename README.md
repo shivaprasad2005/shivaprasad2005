@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Prasad D</h1>
 <h3 align="center">Information Science Engineering Student | DSA Learner | Backend Developer</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shivaprasad2005&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -26,13 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </a>
 
-     
-
 <a href="https://www.linkedin.com/in/shiva-prasad-d">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
-
-     
 
 <a href="https://leetcode.com/u/ShivaPrasadD/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
@@ -77,18 +69,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivaprasad2005&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasad2005&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
