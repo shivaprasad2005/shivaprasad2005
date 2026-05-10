@@ -79,10 +79,9 @@
 
 ## 📌 Featured Projects
 
-* 🚀 SmartPark – Full-stack parking reservation system (React + Node.js + MongoDB)
-* 📚 **DSA Practice** – Data structures and algorithms solutions
-* ⚙ **Backend API Projects**
-* 🗄 **Database Projects**
+- 🚀 [SmartPark Frontend](https://github.com/shivaprasad2005/smartpark-frontend) – React + Vite parking reservation UI
+- ⚙️ [SmartPark Backend](https://github.com/shivaprasad2005/smartpark-backend) – Node.js + Express + MongoDB REST API
+
 
 ---
 
