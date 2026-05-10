@@ -79,7 +79,7 @@
 
 ## 📌 Featured Projects
 
-* 🚀 **SmartTicket** – Ticket management system
+* 🚀 SmartPark – Full-stack parking reservation system (React + Node.js + MongoDB)
 * 📚 **DSA Practice** – Data structures and algorithms solutions
 * ⚙ **Backend API Projects**
 * 🗄 **Database Projects**
