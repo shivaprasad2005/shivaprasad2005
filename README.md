@@ -55,19 +55,6 @@
 </table>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivaprasad2005&show_icons=true&theme=tokyonight"/>
-
-  
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivaprasad2005&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=shivaprasad2005&theme=tokyonight"/>
-</p>
-
 ## 🎯 Current Focus
 
 * Master **Data Structures & Algorithms**
